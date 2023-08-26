@@ -63,7 +63,7 @@
         <h2.version>1.4.198</h2.version>
         <slf4j.version>1.7.26</slf4j.version>
         <paranamer.version>2.8</paranamer.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.9</logback.version>
         <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
     </properties>
 
